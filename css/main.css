@@ -15,3 +15,17 @@ body {
 .hidden {
     display: none;
 }
+
+.wrapper {
+    width: 45%;
+    display: inline-block;
+    padding: 10px;
+}
+
+.wrapper img {
+    width: 100%;
+}
+
+.icon-container {
+    text-align: center;
+}
